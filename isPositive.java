@@ -2,7 +2,7 @@ package text;
 
 import java.util.Scanner;
 
-public class Test{
+public class isPositive{
 	
 	private static boolean isPositive(double number) {
 		
